@@ -1,1 +1,29 @@
 # Hi there i'm KERNALVOID 👋
+
+I'm an **Mechatronics Engineer** with a strong passion for programming.  
+I specialize in **C++**, **Python**, and **MATLAB**, and I’ve built everything from games to real-world applications.  
+Even though my background is in engineering, coding has always been my favorite craft — especially **C++** ✈️💻  
+
+This profile is where I **showcase my programming skills and projects**, combining technical precision with creativity.
+---
+## 🔧 Technologies & Tools
+
+### 💻 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+</p>
+
+### 🐧 OS
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+### ⚙️ Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" alt="GCC" width="40" height="40"/>
+</p>
