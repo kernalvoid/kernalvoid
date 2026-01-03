@@ -2,7 +2,7 @@
 
 I'm an **Mechatronics Engineer** with a strong passion for programming.  
 I specialize in **C++**, **Python**, and **MATLAB**, and I’ve built everything from games to real-world applications.  
-Even though my background is in engineering, coding has always been my favorite craft — especially **C++** ✈️💻  
+Even though my background is in engineering, coding has always been my favorite craft especially **C++** ✈️💻  
 
 This profile is where I **showcase my programming skills and projects**, combining technical precision with creativity.
 ---
